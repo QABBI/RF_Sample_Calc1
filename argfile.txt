@@ -1,0 +1,10 @@
+--outputdir
+c:\users\manoj_~1\appdata\local\temp\RIDEwdul_h.d
+-C
+off
+-W
+97
+--suite
+Project1.Suit1
+--test
+Project1.Suit1.TC1

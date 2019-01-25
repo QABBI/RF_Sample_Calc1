@@ -1,0 +1,11 @@
+*** Settings ***
+Library           SeleniumLibrary
+
+*** Test Cases ***
+TC1
+    Open Browser    https://robotframework.org/    chrome
+
+TC2
+    Open Browser    https://robotframework.org/    chrome
+    close Browser
+    Log To Console    Completed Sucessfully
